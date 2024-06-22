@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095873513755",
+    "project_id": "flash-cart-b5e01",
+    "storage_bucket": "flash-cart-b5e01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095873513755:android:706c77b0d545e5819f2bbe",
+        "android_client_info": {
+          "package_name": "com.example.flash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLiY5G9W2WH3afOGktIisOb7QhUuMXVuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
